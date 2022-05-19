@@ -1,0 +1,1 @@
+Final Project used in CS111. Analyzes Counter-Strike Stats from HLTV. The data are grabbed raw but it is used to analyze averages of ratings, names, teams. It can be used to filter teams and remove names.
